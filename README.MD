@@ -1,8 +1,8 @@
 # [OMSCS](https://omscs.gatech.edu/)
 
-Online Master of Science in Computer Science
-College of Computing
-Georgia Institute of Technology
+Online Master of Science in Computer Science  
+College of Computing  
+Georgia Institute of Technology  
 
 **Ronghui Zhou, Ph.D.**
 [LinkedIn](https://www.linkedin.com/in/ronghuizhou/); [GitHub](https://github.com/RonghuiZhou)
