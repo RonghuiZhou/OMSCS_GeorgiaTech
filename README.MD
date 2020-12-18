@@ -5,6 +5,7 @@ College of Computing
 Georgia Institute of Technology  
 
 **Ronghui Zhou, Ph.D.**  
+Class of Fall 2020  
 [LinkedIn](https://www.linkedin.com/in/ronghuizhou/); [GitHub](https://github.com/RonghuiZhou)
 
 ---------------------------------------------
