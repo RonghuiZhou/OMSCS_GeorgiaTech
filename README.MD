@@ -1,5 +1,9 @@
 # [OMSCS](https://omscs.gatech.edu/)
 
+### Course reviews: 
+- [OMSCentral](https://omscentral.com/courses)
+- [reddit](https://www.reddit.com/r/OMSCS/)
+
 Online Master of Science in Computer Science  
 College of Computing  
 Georgia Institute of Technology  
