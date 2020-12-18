@@ -52,5 +52,5 @@ Class of Fall 2020
 		- [CSE 6250 Big Data for Health](https://omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics)
 
 - Semesters
-	- Fall 2020: Computational Photography; B (89.13%)
+	- Fall 2020: [Computational Photography](CS6475_Computational_Photography_Fall2020.ipynb); B (89.13%)
 	- Spring 2021: 
